@@ -5,9 +5,13 @@
 
 ## Apresentação
 
-### Quem é a Cyberlua?
+### 👩‍💻 Quem é a Cyberlua?
 
-<img src='./assets/female-ghost-face.png' width=500 alt='gif da cyberlua'> 
+<h1 align="center">
+
+<img src='https://media.giphy.com/media/EAUxXN6cSgYTZmCCQG/giphy-downsized-large.gif' width=250 alt='gif da cyberlua'> 
+
+</h1>
 
 [Luna Trevisan](https://www.instagram.com/cyberlua7/), é uma nordestina - Pernambuco meu amô, apaixonada pelos jogos eletrônicos e pelo universo da tecnologia, e claro, amando essa área da programação onde estou me formando em desenvolvedora Front-End pela Reprograma. E com muita sede de aprender mais linguagens e tecnologias chegou meu momento de fazer uma imersão onde eu possa externalizar essa minha paixão.
 
@@ -25,7 +29,7 @@
 
 Com o objetivo de criar um projeto que tenha a função de impactar socialmente de forma positiva, criei um web site onde destaco empresas e instituições de ensino que trabalham com a diversidade e inclusão da comunidade LGBT. Também trago dados de uma realidade que infelizmente ainda continua presente em nossa sociedade e claro, minha vivência e experiências como base de um pensamento indagante e argumentativo. Pensando nisso e como eu posso ajudar de forma coletiva compartilhando meus conhecimentos de desenvolvedora web, me dei a missão de promover a conscientização e reconhecimento das empresas e instituições de ensino que estão fazendo a diferença, acolhendo a diversidade como um valor fudamental e trabalhando para criar uma sociedade acolhedora e inclusiva.
 
-### O site conterá 4 páginas:
+### O site conterá 5 páginas:
 
 * Home
 
@@ -124,14 +128,14 @@ Siga os passos e inclua as informações abaixo:
 
 - Outro desafio foi deixar meu site responsivo para todos os tamanhos de tela.
 
-## 💪 Aprendizados
+## 📚 Aprendizados
 
 - Meu aprendizado nesse projeto foi utilizar e aprender uma parte do framework Bootstrap e utilizei a biblioteca do mesmo, Bootstrap-react onde criei um carousel de imagens para por no meu Header
 
-- E outro aprendizado que foi muito necessário para por em prática o projeto foi ter aula de UX/Design, onde aprendi a utilizar o <i>FIGJAM</i> para criar um caderno com <i>brainstorm, matriz de esforço x impacto, desk research, proto persona e site map.
+- E outro aprendizado que foi muito necessário para por em prática o projeto foi ter aula de UX/Design, onde aprendi a utilizar o <i>FIGJAM</i> para criar um caderno com <i>brainstorm, matriz de esforço x impacto, desk research, proto persona e site map.</i>
 
 
-## 😎 Próximos passos mapeados
+## 🗺️ Próximos passos mapeados
 
 - Mapeamento para programas de estágios, bolsas de estudo, mentorias e vagas de empregos voltadas à comunidade LGBT nas instituições de ensino e no mercado de trabalho.
 
@@ -146,7 +150,7 @@ Siga os passos e inclua as informações abaixo:
 - Revisar responsividade
 
 
-## Citação e Agradecimento
+## 💜 Citação e Agradecimento
 
 Eu nem sei expressar o quão sou grata a várias pessoas, mas vamos la.
 
