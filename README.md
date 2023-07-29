@@ -9,7 +9,7 @@
 
 <h1 align="center">
 
-<img src='https://media.giphy.com/media/EAUxXN6cSgYTZmCCQG/giphy-downsized-large.gif' width=250 alt='gif da cyberlua'> 
+<img src="https://media.giphy.com/media/EAUxXN6cSgYTZmCCQG/giphy-downsized-large.gif" width="250" alt='gif da cyberlua'> 
 
 </h1>
 
