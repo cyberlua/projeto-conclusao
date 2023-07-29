@@ -1,0 +1,68 @@
+.cursoContainer {
+  display: grid;
+  gap: 3rem;
+  grid-template-columns: repeat(2, 1fr);
+  margin: 0 auto;
+  padding: 2rem;
+  width: 80%;
+}
+
+.cursoText {
+  padding: 5rem;
+  text-align: center;
+}
+
+.cardCurso {
+  align-items: center;
+  background-color: rgb(237, 229, 244);
+  border-radius: 8px;
+  box-shadow: 0 2px 4px #252525;
+  display: flex;
+  flex-direction: column;
+  padding: 1rem;
+}
+
+.cardTitle {
+  display: flex;
+  font-size: 2rem;
+  padding: 1rem;
+}
+
+.cardText {
+  text-align: justify;
+}
+
+.cardLink {
+  align-items: center;
+  color: black;
+  display: flex;
+  gap: 0.5rem;
+  justify-content: center;
+  padding: 3rem;
+  text-decoration: none;
+}
+
+@media screen and (max-width: 767px) {
+  .cursoContainer {
+    grid-template-columns: 1fr;
+    width: 90%;
+  }
+
+  .cursoText {
+    padding: 2rem;
+  }
+
+  .cardCurso {
+    gap: 1rem;
+    padding: 1rem;
+    width: 80%;
+  }
+
+  .cardTitle {
+    font-size: 1.5rem;
+  }
+
+  .cardLink {
+    padding: 1rem;
+  }
+}

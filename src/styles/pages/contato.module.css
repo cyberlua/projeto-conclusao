@@ -1,0 +1,84 @@
+.contatoContainer {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 1.5rem;
+}
+
+.contatoText {
+    font-size: 1.5rem;
+    padding: 2rem;
+
+}
+
+.contatoFlexContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.form {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 32rem;
+    justify-content: center;
+}
+
+.formInput {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-bottom: 1rem;
+    padding: .6rem 2rem;
+    resize: vertical;
+    width: 60%;
+}
+
+.formButton {
+    background-color: #9315d2;
+    border: none;
+    border-radius: 30px;
+    color: white;
+    cursor: pointer;
+    font-size: 1rem;
+    margin-top: 2.5rem;
+    overflow: hidden;
+    padding: .6rem 2rem;
+    position: relative;
+    width: 20%;
+    z-index: 1;
+}
+
+button::before {
+    background-color: rgba(236, 0, 0, 0.2);
+    content: '';
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    transition: width 0.3s;
+    width: 0;
+    z-index: -1;
+}
+
+button:hover::before {
+    width: 100%;
+}
+
+
+@media screen and (max-width: 767px) {
+    .formInput {
+        width: 100%;
+    }
+
+    .formButton {
+        width: 50%;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .formButton {
+        width: 30%;
+    }
+}

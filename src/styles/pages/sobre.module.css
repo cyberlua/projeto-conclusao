@@ -1,0 +1,68 @@
+.aboutContainer {
+  padding: 2rem;
+}
+
+.aboutTitle {
+  font-size: 2rem;
+  margin-bottom: 3rem;
+  padding: 3rem;
+  text-align: center;
+}
+
+.aboutText {
+  font-size: 1.5rem;
+  gap: 2rem;
+  padding: 3rem;
+  text-align: center;
+  text-align: justify;
+}
+
+.aboutImage {
+  width: 30rem;
+}
+
+.flexContainer {
+  align-items: center;
+  display: flex;
+  gap: 2rem;
+}
+
+.flexContainerTwo {
+  align-items: center;
+  display: flex;
+  flex-direction: row-reverse;
+  gap: 2rem;
+}
+
+.flexContainerThree {
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  gap: 2rem;
+}
+
+
+
+@media screen and (max-width: 767px) {
+  .flexContainer {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .aboutTitle {
+    font-size: 1.5rem;
+    padding: 2rem;
+  }
+
+  .aboutText {
+    font-size: 1rem;
+    padding: 2rem;
+  }
+
+  .aboutImage {
+    padding: 1rem;
+    width: 60%;
+
+  }
+
+}

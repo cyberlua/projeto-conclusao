@@ -1,0 +1,10 @@
+.slides {
+    border-radius: 1rem;
+    width: 100vh;
+}
+
+@media screen and (max-width: 767px) {
+    .slides {
+        max-width: 100%;
+    }
+}

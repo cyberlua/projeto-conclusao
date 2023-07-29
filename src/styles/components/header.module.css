@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Oranienbaum&display=swap');
+
+.headerContainer {
+    align-items: center;
+    background-color: #272627;
+    display: flex;
+    flex-direction: row;
+    gap: 5rem;
+    width: 100%;
+}
+
+.headerTitle {
+    color: aliceblue;
+    font-family: 'Oranienbaum', serif;
+    margin: 5rem;
+}
+
+@media screen and (max-width: 767px) {
+    .headerContainer {
+        flex-direction: column;
+        gap: 2rem;
+        padding: 1rem;
+    }
+
+    .headerTitle {
+        font-size: 1.5rem;
+        margin: 2rem;
+    }
+}

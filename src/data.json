@@ -1,0 +1,72 @@
+[
+    {   
+        "id": "1",
+        "imagem": "https://svgshare.com/i/vcW.svg",
+        "titulo": "Atento Brasil",
+        "descrição": "A Telemarketing é parceira da TransEmpregos e tem política estruturada para diversidade. Iniciativas incluem atração de profissionais trans em feiras de empregabilidade e uso de banheiros e crachá social conforme a identidade de gênero preferida, não necessariamente o que consta em seu RG ou em sua certidão de nascimento. Além de incentivo ao uso de roupas associadas ao gênero escolhido.",
+        "html_url": "https://atento.com/pb/insight/diversidade-e-inclusao-na-pratica/"
+    },
+    {   
+        "id": "2",
+        "imagem": "https://svgshare.com/i/vdQ.svg",
+        "titulo": "Meta",
+        "descrição": "Oferece benefícios abrangentes para funcionários transgêneros e seus dependentes. Incentiva um ambiente diverso, com treinamentos para empreendedores e apoio a criadores LGBT. O programa Meta Pride conecta talentos LGBT a oportunidades de trabalho na Feira DiverS/A. Investe em parcerias estratégicas, treinamentos e adaptação de produtos, buscando ser uma referência em diversidade.",
+        "html_url": "https://about.fb.com/br/news/2022/06/celebrando-o-orgulho-com-criadores-e-comunidades-lgbtqia-no-brasil/"
+    },
+    {
+        "id": "3",
+        "imagem": "https://svgshare.com/i/vdD.svg",
+        "titulo": "Santander",
+        "descrição": "Promove a igualdade de oportunidades e o respeito à comunidade LGBT em todas as esferas de sua atuação. Tem várias parcerias com ONGs e instituições, o Santander desenvolve projetos que visam combater o preconceito, promovendo a inclusão social e oferecerecendo suporte. Realizam jornadas com aliados para disseminação do tema e maior alcance em toda organização, diversificando a equipe e representando uma maior diversidade cultural e social.",
+        "html_url": "https://www.santander.com.br/hotsite/carreiras-diversidade/"
+    },
+    {
+        "id": "4",
+        "imagem": "https://svgshare.com/i/ve4.svg",
+        "titulo": "Nubank",
+        "descrição": "Tem como objetivo ser uma empresa que vai além dos serviços financeiros, buscando construir um mundo mais inclusivo e respeitoso para todos. Por meio de parcerias estratégicas, investimentos em treinamentos, adaptação de produtos e apoio a causas sociais, a Nubank trabalha para ser uma referência em diversidade e inclusão, oferecendo um ambiente acolhedor e igualitário para a comunidade LGBT e para todos os seus clientes e colaboradores.",
+        "html_url": "https://blog.nubank.com.br/orgulho-no-nubank/"
+    },
+    {   
+        "id": "5",
+        "imagem": "https://svgshare.com/i/vb7.svg",
+        "titulo": "Natura",
+        "descrição": "Oferece benefícios de saúde a casais LGBT, como licenças parentais estendidas – maternidade de seis meses e paternidade de 40 dias –, além do berçário, sem custo para pais e mães, independentemente do gênero ou orientação sexual. A empresa também garante a adoção do nome social e em parceria com a Casa 1, ofereceu cursos profissionalizantes de maquiagem para transexuais, iniciativa patrocinada pela marca Natura Faces.",
+        "html_url": "https://www.natura.com.br/maisdoquevcve"
+    },
+    {
+        "id": "6",
+        "imagem": "https://svgshare.com/i/vdC.svg",
+        "titulo": "Bradesco",
+        "descrição": "Como uma instituição financeira de grande porte e influência, tem como um de seus principais  objetivos promover a inclusão social e combater a discriminação, com um enfoque especial na comunidade LGBT. Para atingir esse propósito busca estabelecer parcerias com organizações e entidades que trabalham com a diversidade, com o objetivo de desenvolver projetos e iniciativas que fomentem a inclusão e o respeito à comunidade LGBT.",
+        "html_url": "https://banco.bradesco/html/classic/sobre/sustentabilidade/internas/pessoas-diversidade.shtm"
+    },
+    {   
+        "id": "7",
+        "imagem": "https://svgshare.com/i/vcc.svg",
+        "titulo": "Microsoft",
+        "descrição": "Tem o objetivo capacitar cada pessoa e organização no planeta para alcançar mais. Com as empresas cada vez mais buscando por talentos diversos, oferece cursos gratuitos para mulheres, pessoas LGBT+, pessoas com deficiência, entre outros. Tem vários programas que promovem diversidade e inclusão, dentre eles tem o Transconvida, Elas na IA, entre outros. ",
+        "html_url": "https://www.microsoft.com/pt-br/conecta/diversidade-e-inclusao.aspx"
+    },
+    {
+        "id": "8",
+        "imagem": "https://svgshare.com/i/vcN.svg",
+        "titulo": "TIM",
+        "descrição": "Se destaca pelo programa Transforma TIM, que promove inclusão de pessoas trans com subsídio para graduação e benefícios como assistência jurídica e apoio psicológico. A empresa também oferece ações educacionais e o app Somos+, visando ampliar empregabilidade e levar conteúdo à comunidade LGBT. O TIM Convida, evento no YouTube, promove sensibilização e combate ao preconceito.",
+        "html_url": "https://ri.tim.com.br/esg/social/diversidade/"
+    },
+    { 
+        "id": "9",
+        "imagem": "https://svgshare.com/i/vd4.svg",
+        "titulo": "Neon",
+        "descrição": "Tem uma iniciativa criada para fomentar diversidade e inclusão assim garantindo um ambiente seguro e acolhedor, além de realizar ações de conscientização e educação. Tem 3 grupos de afinidade: DiversaBlack, D.Pride e D.Woman representando pessoas negras, LGBT e mulheres, apoiando com ações que geram representatividade. Também tem alguns benefícios como apoio psicológico, cursos entre outros.",
+        "html_url": "https://neon.com.br/carreira"
+    },
+    {
+        "id": "10",
+        "imagem": "https://svgshare.com/i/vbf.svg",
+        "titulo": "Accenture",
+        "descrição": "A empresa se compromete em garantir ambiente inclusivo, com políticas, desenvolvimento profissional e benefícios iguais para todos, independentemente de orientação sexual ou identidade de gênero. Tem uma iniciativa para abrangem casais do mesmo sexo, saúde de pessoas transgêneras e grupos de recursos em vários países, além de um Ally Programme global em expansão.",
+        "html_url": "https://www.accenture.com/br-pt/about/inclusion-diversity/lesbian-gay-bisexual-transgender"
+    }
+]

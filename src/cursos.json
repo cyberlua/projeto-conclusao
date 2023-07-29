@@ -1,0 +1,72 @@
+[
+    {
+        "id": "1",
+        "imagem": "/reprograma.svg",
+        "titulo": "Reprograma",
+        "descrição": "Uma equipe composta de mulheres para mulheres com o objetivo de preencher as lacunas de gênero no mercado de trabalho tecnológico, trabalha na capacitação de mulheres de todo brasil - com foco em mulheres pretas e trans, ensinando programação num ambiente totalmente acolhedor e inclusivo.",
+        "insta": "https://www.instagram.com/reprogramabr/"
+    },
+    { 
+        "id": "2",
+        "imagem": "/educatransforma.svg",
+        "titulo": "educaTRANSforma",
+        "descrição": "Ecossistema de diversidade com foco na educação e empregabilidade de pessoas trans e demais grupos. O EDUCATRANSFORMA se dá como um projeto formado por trilhas de aprendizagem, voltados a capacitar gratuitamente as pessoas trans para atuarem no mercado de tecnologia, gestão, e inovação.",
+        "insta": "https://www.instagram.com/educatransforma/"
+    },
+    {   
+        "id": "3",
+        "imagem": "/casaneon.svg",
+        "titulo": "Casa Neon Cunha",
+        "descrição": "Instituição que oferece capacitação para a comunidade LGBT+ sendo que 75% devem ser pessoas trans, tem um programa chamado Projeto Cozinha & Voz que treina tarefas básicas de uma cozinha de restaurante, e também desenvolvendo as habilidades socioemocionais, expressão e comunicação dos participantes.",
+        "insta": "https://www.instagram.com/casaneoncunha/"
+    },
+    {   
+        "id": "4",
+        "imagem": "/amora.svg",
+        "titulo": "Amora Brinquedos",
+        "descrição": "Amora® é um negócio social que possui o propósito de construir uma Educação Antirracista por meio de Brinquedos. Tem o Projeto Tecido Transformador que atende gratuitamente 40 mulheres transexuais localizadas em Salvador e região metropolitana por meio de qualificação profissional em corte e costura criativa e empreendedorismo.",
+        "insta": "https://www.instagram.com/amorabrinquedos/"
+    },
+    {
+        "id": "5",
+        "imagem": "/transenem.svg",
+        "titulo": "TransEnem",
+        "descrição": "Oferece curso pré-ENCCEJA, pré-ENEM e pré-vestibular para a população LGBT+. O cursinho gratuito é uma organização independente e sem fins lucrativos. O preparatório foca não apenas no Enem, mas também em processos seletivos das universidades de todo o Brasil.",
+        "insta": "https://www.instagram.com/transenempoa/"
+    },
+    {
+        "id": "6",
+        "imagem": "/publicis.svg",
+        "titulo": "Publicis Brasil",
+        "descrição": "É uma agência que criou o programa Entre, e oferece um curso de formação de criativas um programa gratuito de capacitação e inclusão de mulheres na área criativa. O programa tem 85% das vagas direcionadas para mulheres negras e 10% para mulheres trans.",
+        "insta": "https://www.instagram.com/publicisbrasil/"
+    },
+    {   
+        "id": "7",
+        "imagem": "/preparatrans.svg",
+        "titulo": "Prepara Trans",
+        "descrição": "Coletivo de Educação Popular com preparatório para ENEM/ENCCEJA destinado à população trans, travesti e LGB+. Foi desenvolvido na Universidade Federal de Goiás (UFG), por alunos e professores da instituição de forma voluntária. As aulas são oferecidas presencialmente de segunda a sexta no turno da noite.",
+        "insta": "https://www.instagram.com/preparatrans/"
+    },
+    {
+        "id": "8",
+        "imagem": "/transvest.svg",
+        "titulo": "Transvest",
+        "descrição": "É uma ONG formada por professores voluntários. Além das aulas preparatórias para o vestibular, a organização também oferece curso de libras e cursos das línguas inglesa, francesa, espanhola e italiana. A população trans de Belo Horizonte ainda conta com palestras e oficinas artísticas sobre as culturas LGBT+.",
+        "insta": "https://www.instagram.com/transvestbh/"
+    },
+    {   
+        "id": "9",
+        "imagem": "/transpassando.svg",
+        "titulo": "Coletivo Transpassando",
+        "descrição": "Coletivo de combate à transfobia e demais preconceitos através da formação humana, educacional e profissional. Tem um cursinho que é feito por professores voluntários, alunos dos cursos de licenciatura da Universidade Estadual do Ceará (UECE). Todas as ações do cursinho são organizadas pelo Coletivo Transpassando.",
+        "insta": "https://www.instagram.com/transpassando/"
+    },
+    {
+        "id": "10",
+        "imagem": "/programaria.svg",
+        "titulo": "Programaria",
+        "descrição": "A PrograMaria é uma startup focada na formação e no engajamento de mulheres na área da tecnologia. Possui cursos online de introdução à programação para que mulheres sem nenhum conhecimento prévio da área de tecnologia. E não colocam nenhum pré-requisito para que as mulheres iniciem os estudos e possam dar o primeiro passo. ",
+        "insta": "https://www.instagram.com/programaria/"
+    }
+]
