@@ -1,6 +1,6 @@
 <h1  align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2hxdmRpeDBiNTV1bHZjaGliaDN3dm00aXlucndqNWcydW5vazV3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUySTBEFBBBUKF4CpG/giphy.gif" alt="logo reprograma" width="300"> 
+<img src="./assets/cb.svg" alt="logo reprograma" width="500"> 
 </h1>
 
 ## Apresentação
@@ -9,7 +9,7 @@
 
 <h1 align="center">
 
-<img src="https://media.giphy.com/media/EAUxXN6cSgYTZmCCQG/giphy-downsized-large.gif" width="250" alt='gif da cyberlua'> 
+<img src="https://media.giphy.com/media/ATDOv3l9cPxzVTp6Ar/giphy.gif" alt="gif da cyberlua" width="250"> 
 
 </h1>
 
